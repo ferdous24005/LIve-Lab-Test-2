@@ -53,9 +53,5 @@
 - The **Top 10** scores are shown on the leaderboard.
 
 
-![Game page](screenshots/game.png)
-![Result page](screenshots/result.png)
-![Leaderboard](screenshots/leaderboard.png)
-
 
 Subdirectory URL: `https://github.com/<username>/<repository>/tree/main/<subdirectory>`
