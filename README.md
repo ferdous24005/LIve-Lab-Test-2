@@ -52,14 +52,10 @@
 - After finishing, the score is saved to the database.
 - The **Top 10** scores are shown on the leaderboard.
 
-## Screenshots
-
-Add your screenshots to the `screenshots/` folder and link them here:
 
 ![Game page](screenshots/game.png)
 ![Result page](screenshots/result.png)
 ![Leaderboard](screenshots/leaderboard.png)
 
-## GitHub Repository
 
 Subdirectory URL: `https://github.com/<username>/<repository>/tree/main/<subdirectory>`
